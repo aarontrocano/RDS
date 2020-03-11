@@ -1,0 +1,1 @@
+﻿Get-RDSessionCollection -ConnectionBroker BR01.example.com
